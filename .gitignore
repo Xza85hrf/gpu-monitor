@@ -1,0 +1,18 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Virtual environments (project uses monitor_gpus/ per README)
+.venv/
+venv/
+monitor_gpus/
+
+# Runtime output
+logs/
+src/logs/
+**/logs/*.log
+.pytest_cache/
+.coverage
+htmlcov/
