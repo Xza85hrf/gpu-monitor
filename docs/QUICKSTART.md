@@ -79,4 +79,4 @@ scripts/run_tests.bat
 - Application logs: `logs/gpu_monitor.log`
 - Test logs: `logs/test_gpu_monitor.log`
 
-For more detailed information, see [README.md](README.md).
+For more detailed information, see [README.md](../README.md).

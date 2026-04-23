@@ -163,4 +163,4 @@ No special environment variables are required for basic operation.
    scripts/run_gpu_monitor.bat
    ```
 
-For additional help, see [README.md](README.md) or create an issue on GitHub.
+For additional help, see [README.md](../README.md) or create an issue on GitHub.

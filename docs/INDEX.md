@@ -4,7 +4,7 @@ Welcome to the GPU Monitor documentation. This index will help you navigate thro
 
 ## Getting Started
 
-- [README.md](README.md) - Project overview, features, and basic usage
+- [README.md](../README.md) - Project overview, features, and basic usage
 - [QUICKSTART.md](QUICKSTART.md) - Quick installation and usage guide
 - [SETUP.md](SETUP.md) - Detailed installation and configuration instructions
 
@@ -20,7 +20,7 @@ Welcome to the GPU Monitor documentation. This index will help you navigate thro
 
 1. First time setup? Start with [QUICKSTART.md](QUICKSTART.md)
 2. Need detailed installation? See [SETUP.md](SETUP.md)
-3. Want feature overview? Check [README.md](README.md)
+3. Want feature overview? Check [README.md](../README.md)
 
 ### For Developers
 
@@ -37,15 +37,16 @@ docs/
 ├── CONTRIBUTING.md   # Contribution guidelines
 ├── INDEX.md         # This navigation file
 ├── QUICKSTART.md    # Quick setup guide
-├── README.md        # Project overview
 └── SETUP.md         # Detailed setup instructions
+
+README.md            # Project overview (at repo root)
 ```
 
 ## Additional Resources
 
 ### Screenshots
 
-- Main application interface shown in [README.md](README.md)
+- Main application interface shown in [README.md](../README.md)
 
 ### Configuration
 
@@ -63,7 +64,7 @@ docs/
 If you encounter any issues:
 
 1. Check the troubleshooting section in [SETUP.md](SETUP.md)
-2. Review common issues in [README.md](README.md)
+2. Review common issues in [README.md](../README.md)
 3. Check recent changes in [CHANGELOG.md](CHANGELOG.md)
 4. Create an issue on GitHub
 

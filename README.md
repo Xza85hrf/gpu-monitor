@@ -2,7 +2,7 @@
 
 A real-time GPU and System Memory monitoring tool with color-coded visual indicators.
 
-![GPU Monitor Screenshot](GPU_Monitor_Screenshot.png)
+![GPU Monitor Screenshot](docs/GPU_Monitor_Screenshot.png)
 
 ## Project Structure
 
